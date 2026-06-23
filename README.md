@@ -45,3 +45,16 @@ build the .cpp file in vscode or in terminal
     1. Open any program Let's say mspaint so open it 
     2. injector.exe <PID> <MAL DLL>
     3. Or can get the PID easily and impliment it. [ .\injector.exe (Get-process | ?{$_.ProcessName -eq "mspaint"} |Select-Object -ExpandProperty Id) <MAL DLL> ]
+
+
+## ⚖️ Ethical Guidelines
+
+**By using this tool, you agree to the following:**
+
+1. You will not use this tool for malicious purposes.
+2. You are responsible for obtaining all necessary permissions before interacting with any process.
+3. The author is not responsible for any damage caused by the use of this software.
+
+## 📝 License
+
+Distributed under the MIT License. See LICENSE for more information.
