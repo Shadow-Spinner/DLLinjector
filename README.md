@@ -3,6 +3,9 @@ A specialized Windows-based penetration testing and security research tool desig
 
 **⚠️ Disclaimer:** This tool is developed strictly for authorized security auditing, educational purposes, and defensive research. Do not use this software against infrastructure without prior written consent.
 
+<img width="1920" height="1080" alt="edited" src="https://github.com/user-attachments/assets/9a280c81-09d1-45cf-a413-f99273d34962" />
+
+
 ## 🛠️ Core Capabilities & Injection Mechanisms
 
 The tool abstracts complex Windows API interactions into structured pipelines, supporting multiple memory allocation and execution techniques:
